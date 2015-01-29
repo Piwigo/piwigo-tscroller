@@ -1,0 +1,1 @@
+Množstvo nes&uacute;rod&yacute;ch použ&iacute;van&yacute;ch ajax n&aacute;hľadov na indexovej str&aacute;nke pri pos&uacute;van&iacute; sa dolu na str&aacute;nke

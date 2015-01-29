@@ -1,0 +1,3 @@
+
+Laddar async med hjälp av ajax "thumbnails" på index sidan efterhand du scrollar nedåt på sidan
+

@@ -1,0 +1,1 @@
+Carrega as miniaturas do índice da página assim que você desliza a mesma para baixo. 

@@ -1,0 +1,1 @@
+Càrrega de miniatures asincrònica utilitzant ajax a la pàgina d'index, a mida que es va baixant la barra de desplaçament cap al final de la pàgina.

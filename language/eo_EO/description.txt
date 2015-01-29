@@ -1,0 +1,1 @@
+Ŝarĝas "async" uzante "ajax"-miniaturojn ĉe la indekspaĝo dum vi rulumas al la subo de la paĝo

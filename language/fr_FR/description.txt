@@ -1,0 +1,1 @@
+Charges, à la demande, des vignettes à l'aide d'ajax sur les pages albums lorsque vous les faites défiler.

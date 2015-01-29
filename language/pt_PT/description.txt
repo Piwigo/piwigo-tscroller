@@ -1,0 +1,1 @@
+Carrega, a pedido, vinhetas usando ajax nas páginas álbuns quando percorelas.

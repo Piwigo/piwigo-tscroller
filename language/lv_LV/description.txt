@@ -1,0 +1,1 @@
+Asinhronā ielāde ritinot lejup lapu, lietojot ajax sīkbildes uz indeksa lapas 

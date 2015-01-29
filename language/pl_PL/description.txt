@@ -1,0 +1,1 @@
+Podczas przewijania strony ładuje asynchronicznie miniaturki przy pomocy technologii ajax

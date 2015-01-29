@@ -1,0 +1,1 @@
+Indlæser miniaturebilleder ved hjælp af ajax, når du scroller mod bunden af siden.

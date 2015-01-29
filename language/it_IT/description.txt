@@ -1,0 +1,1 @@
+Carica, se richiesto, le miniature usando l'ajax quando le fate scorrere sulle pagine degli album

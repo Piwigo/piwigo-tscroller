@@ -1,0 +1,1 @@
+Asynchronn&iacute; načten&iacute; pomoc&iacute; ajax n&aacute;hledů na hlavn&iacute; str&aacute;nce pokud posunete str&aacute;nku dolů
