@@ -5,6 +5,7 @@ Plugin URI: http://piwigo.org/ext/extension_view.php?eid=493
 Description: Infinite scroll - loads thumbnails on index page as you scroll down the page
 Author: rvelices
 Author URI: http://www.modusoptimus.com
+Has Settings: false
 */
 define('RVTS_VERSION', '27a');
 
