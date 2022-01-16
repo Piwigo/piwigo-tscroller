@@ -1,0 +1,1 @@
+Naloži asinhronizacijo z uporabo ajax sličic na indeksni strani, ko se pomikate po strani navzdol
