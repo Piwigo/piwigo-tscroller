@@ -1,0 +1,1 @@
+Hleður ósamstillingu með því að nota Ajax smámyndir á atriðasíðu þegar þú flettir niður síðuna
